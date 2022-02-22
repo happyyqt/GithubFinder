@@ -1,5 +1,5 @@
 # GithubFinder
-![] (/images/githubfinder_result.JPG)
+![](/images/githubfinder_result.JPG)
 In this project, I designed a React app to search Github users and his/her profiles. 
 
 ## Frontend: <br />
